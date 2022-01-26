@@ -8,4 +8,4 @@ developed in C# and .NET,
 
 for Windows and Android,
 
-using Windows Presentation Foundation and Xamarin.Forms, respectivelly.
+using Windows Presentation Foundation and Xamarin.Forms, respectively.
